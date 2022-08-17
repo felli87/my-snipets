@@ -1,0 +1,157 @@
+{
+	"Create header and container": {
+	 	"prefix": ";header-container",
+	 	"body": [
+			"<header class=\"header\">",
+			"\t<div class=\"header__container\">",
+			"\t</div>",
+			"</header>"
+	 	],
+	 	"description": "Create header and container"
+	},
+	"Create section and scontainer": {
+		"prefix": ";section-container",
+		"body": [
+		 "<section class=\"$1-section\">",
+		 "\t<div class=\"$1-section__container\">",
+		 "\t</div>",
+		 "</section>"
+		],
+		"description": "Create section and container"
+	},
+	"Create footer and container": {
+		"prefix": ";footer-container",
+		"body": [
+		 "<footer class=\"footer\">",
+		 "\t<div class=\"footer__container\">",
+		 "\t</div>",
+		 "</footer>"
+		],
+		"description": "Create footer and container"
+	},
+	"Create nav-ul-li in header number-3": {
+		"prefix": ";header-nav-3",
+		"body": [
+			"<nav class=\"header__nav\">",
+			"\t<ul class=\"header__list\">",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t</ul>",
+			"</nav>"
+		],
+		"description": "Create footer and container"
+	},
+	"Create nav-ul-li in header number-4": {
+		"prefix": ";header-nav-4",
+		"body": [
+			"<nav class=\"header__nav\">",
+			"\t<ul class=\"header__list\">",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t</ul>",
+			"</nav>"
+		],
+		"description": "Create footer and container"
+	},
+	"Create nav-ul-li in header number-5": {
+		"prefix": ";header-nav-5",
+		"body": [
+			"<nav class=\"header__nav\">",
+			"\t<ul class=\"header__list\">",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t</ul>",
+			"</nav>"
+		],
+		"description": "Create footer and container"
+	},
+	"Create nav-ul-li in header number-6": {
+		"prefix": ";header-nav-6",
+		"body": [
+			"<nav class=\"header__nav\">",
+			"\t<ul class=\"header__list\">",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t</ul>",
+			"</nav>"
+		],
+		"description": "Create footer and container"
+	},
+	"Create nav-ul-li in header number-7": {
+		"prefix": ";header-nav-7",
+		"body": [
+			"<nav class=\"header__nav\">",
+			"\t<ul class=\"header__list\">",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t\t<li class=\"header__item\">",
+			"\t\t\t<a href=\"\" class=\"header__link\"></a>",
+			"\t\t</li>",
+			"\t</ul>",
+			"</nav>"
+		],
+		"description": "Create footer and container"
+	}
+}
